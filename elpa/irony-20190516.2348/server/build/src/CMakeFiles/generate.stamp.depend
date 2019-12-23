@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake
+D:/.emacs.d/elpa/irony-20190516.2348/irony.el
+D:/.emacs.d/elpa/irony-20190516.2348/server/cmake/CheckClangResourceDir.cmake
+D:/.emacs.d/elpa/irony-20190516.2348/server/cmake/LibClangDiagnosticsChecker.cpp
+D:/.emacs.d/elpa/irony-20190516.2348/server/cmake/modules/FindLibClang.cmake
+D:/.emacs.d/elpa/irony-20190516.2348/server/src/CMakeLists.txt

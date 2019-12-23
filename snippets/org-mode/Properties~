@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Properties
+# key: PROP
+# --
+:PROPERTIES:
+:${1:$$(my/allcaps yas-text)}: $0
+:END:

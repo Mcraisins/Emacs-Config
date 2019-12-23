@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: whl
+# key: whl
+# --
+while(${1:variable})
+{
+$0
+}

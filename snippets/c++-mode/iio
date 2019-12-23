@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: iio
+# key: iio
+# --
+#include <iostream>
+using namespace std;

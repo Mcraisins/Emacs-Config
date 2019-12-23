@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: struct
+# key: sct
+# --
+struct $1
+{
+$0
+}${2:my$1};
