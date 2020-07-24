@@ -4,7 +4,7 @@ Personal config to quickly reinstall setup
 
 ## Requirements
 
-Must install ccls for lsp-mode
+Must install ccls for lsp-mode  
 Uses the font Bitstream Vera Sans Mono
 
 ## Further improvments
